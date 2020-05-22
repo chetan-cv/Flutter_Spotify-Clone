@@ -38,9 +38,9 @@ class Search extends StatelessWidget{
                       Padding(padding: EdgeInsets.only(left:40),),
                       Icon(Icons.search,color: Colors.black,),
                       Padding(padding: EdgeInsets.all(5),),
-                      Text('Artists, ',style: TextStyle(color: Colors.black,fontSize: 20.0,fontFamily: 'SpotifyFont'),),
-                      Text('songs or',style: TextStyle(color: Colors.black,fontSize: 20.0,fontFamily: 'SpotifyFont'),),
-                      Text(' podcasts',style: TextStyle(color: Colors.black,fontSize: 20.0,fontFamily: 'SpotifyFont'),)
+                      Text('Artists, ',style: TextStyle(color: Colors.black,fontSize: 15.0,fontFamily: 'SpotifyFont'),),
+                      Text('songs or',style: TextStyle(color: Colors.black,fontSize: 15.0,fontFamily: 'SpotifyFont'),),
+                      Text(' podcasts',style: TextStyle(color: Colors.black,fontSize: 15.0,fontFamily: 'SpotifyFont'),)
                     ],
                   ),
                 ),
